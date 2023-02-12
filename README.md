@@ -8,5 +8,5 @@ This is another paragraph
 
 Here is a list:
 
--First
--Second
+- First
+- Second
